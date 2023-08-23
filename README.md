@@ -5,7 +5,7 @@ de la II Convocatoria de Proyectos de Innovación Docente del Centro Universitar
 Las prácticas de la asignatura "Mecánica" del "Grado en Ingeniería de Organización Industrial" impartido por dicho Centro
 fueron rehechas y configuradas como cuadernos de Jupyterlab programados en Python. La experiencia previa del proyecto 
 **"Programación numérica mediante Python como herramienta de aprendizaje en la asignatura de Resistencia de Materiales"**, cuyos
-resultados se pueden consultar en https://github.com/universidad-zaragoza/rmat_python, se aprovechó para este proyecto.ç
+resultados se pueden consultar en https://github.com/universidad-zaragoza/rmat_python, se aprovechó para este proyecto.
 
 Los autores son María Pilar Jiménez Cavero y Juan Pablo Hierro Álvarez.
 
