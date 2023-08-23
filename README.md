@@ -10,7 +10,8 @@ resultados se pueden consultar en https://github.com/universidad-zaragoza/rmat_p
 Los autores son María Pilar Jiménez Cavero y Juan Pablo Hierro Álvarez.
 
 En la carpeta _0-Introducción_ hay un cuaderno de Jupyterlab (curso_breve_python.ipynb) completo, se puede ir ejecutando celda a celda conforme se avanza
-sobre el mismo, con explicaciones sobre las características básicas de Python que serán de utilidad  para el desarrollo posterior de las prácticas.
+sobre el mismo, con explicaciones sobre las características básicas de Python que serán de utilidad para el desarrollo posterior de las prácticas. También
+hay un fichero de tipo .pdf con indicaciones generales sobre el desarrollo de las prácticas y el uso de Python y Jupyter-lab.
 
 En las demás carpetas se contienen cuadernos de Jupyterlab incompletos, requieren de alguna modificación para que se puedan ejecutar correctamente, 
 necesarios para la realización de las prácticas, junto con los guiones que explican el sistema
